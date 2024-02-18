@@ -1,0 +1,19 @@
+{
+  "name": "mohammadkamran",
+  "version": "1.0.0",
+  "description": "Type npx mohammadkamran",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warsiKamran/my-package.git"
+  },
+  "author": "Mohammad Kamran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warsiKamran/my-package/issues"
+  },
+  "homepage": "https://github.com/warsiKamran/my-package#readme"
+}
